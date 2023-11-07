@@ -1,0 +1,73 @@
+<style>
+          
+            body {
+                background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-formas-abstratas-brancas_79603-1362.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699315200&semt=ais");
+                background-size:auto; /* Ajusta a imagem para cobrir todo o corpo */
+            }
+        </style>
+        <style>
+            body {
+               font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                font-size: 20px;
+                line-height: 1.5;
+                color: rgb(0, 0, 255);
+                }
+                h1 {
+                font-size: 30px;
+                margin-bottom: 22px;
+                }
+                p {
+                margin-bottom: 20px;
+                }
+                a {
+                color: rgb(18, 228, 247)0, 0);
+                text-transform: uppercase;
+                }
+                a:hover {
+               text-decoration:underline; } 
+    </style>
+    <style>
+        body 
+        {
+            background-color: rgb(196, 177, 177));
+            text-decoration:corner-present
+            font-display: flex;
+            text-align: center;
+    
+        }
+    
+        h1 { 
+            text-align: justify;
+    
+    
+        }
+       p {
+    text-align: justify;
+        }
+    
+    </style>
+    <style>
+        p{
+            text-align:center;
+        }
+        h1 {
+            text-align: center;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+    h3 {
+        text-align: center;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+
+    }
+    h4
+    {
+        text-align:center;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+
+    }
+        
+    
+    </style>
+    
